@@ -1,4 +1,5 @@
 # haidragon_study
+* 可以先暂时看[study_frida](https://github.com/haidragon/study_frida)
 haidragon_study
 # ios逆向视频教程
 # android逆向视频教程
@@ -14,4 +15,3 @@ haidragon_study
 # android主动防御视频教程
 # linux主动防御视频教程
 # mac os主动防御视频教程
- 
