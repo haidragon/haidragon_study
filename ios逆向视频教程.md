@@ -13,6 +13,7 @@
 * Cycript(系列)
 * FLEX工具使用(已更新)
 * Lookin工具使用(已更新)
+* passionfruit工具使用(已更新)
 * Frida(单独一套视频教程)(已更新) 
 * Hopper工具使用
 * IDA Pro(单独一套视频教程)
