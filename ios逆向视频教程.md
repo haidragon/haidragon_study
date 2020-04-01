@@ -10,7 +10,7 @@
 * runtime系列(主要讲反射，objc实现原理)
 * arm 汇编系列
 * class-dump工具使用(已更新)
-* Cycript(系列)
+* Cycript(系列)(已更新)
 * FLEX工具使用(已更新)
 * Lookin工具使用(已更新)
 * passionfruit工具使用(已更新)
@@ -19,7 +19,8 @@
 * IDA Pro(单独一套视频教程)
 * LLDB(系列)
 * 自己实现重签名脚本
-* MonkeyDev工具集成
+* MonkeyDev集成开发环境搭建
+* xcode 调试UI
 * xcode 免越狱调试第三方程序
 * 守护进程开发
 * 进程间通信基础
