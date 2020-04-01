@@ -11,7 +11,6 @@
 * arm 汇编系列
 * class-dump工具使用
 * Cycript(系列)
-* Reveal工具使用
 * FLEX工具使用
 * Lookin工具使用
 * Frida(单独一套视频教程)
