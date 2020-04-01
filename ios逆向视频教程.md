@@ -9,11 +9,11 @@
 * Macho 文件格式(单独一套视频教程)
 * runtime系列(主要讲反射，objc实现原理)
 * arm 汇编系列
-* class-dump工具使用
+* class-dump工具使用(已更新)
 * Cycript(系列)
-* FLEX工具使用
-* Lookin工具使用
-* Frida(单独一套视频教程)
+* FLEX工具使用(已更新)
+* Lookin工具使用(已更新)
+* Frida(单独一套视频教程)(已更新) 
 * Hopper工具使用
 * IDA Pro(单独一套视频教程)
 * LLDB(系列)
