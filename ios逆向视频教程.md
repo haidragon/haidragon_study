@@ -3,25 +3,27 @@
 ## 视频学习地址加vx 2207344074  (备注qq号) qq群：309262570 826038086
 
 ### ios逆向基础
-* ios12.2越狱(已更新)
-* ios10.3.3越狱(已更新)
-* ios越狱开发环境搭建(已更新)
-* ios12.2砸壳(已更新)
+* ios12.2越狱 
+* ios10.3.3越狱 
+* ios越狱开发环境搭建 
+* ios12.2砸壳 
 * Macho 文件格式(单独一套视频教程)
 * runtime系列(主要讲反射，objc实现原理)
 * arm 汇编系列
-* class-dump工具使用(已更新)
-* Cycript(系列)(已更新)
-* FLEX工具使用(已更新)
-* Lookin工具使用(已更新)
-* passionfruit工具使用(已更新)
-* Frida(单独一套视频教程)(已更新) 
+* class-dump工具使用 
+* Cycript(系列) 
+* FLEX工具使用 
+* Lookin工具使用 
+* passionfruit工具使用 
+* xcode 调试UI
+* Frida(单独一套视频教程) 
 * Hopper工具使用
 * IDA Pro(单独一套视频教程)
-* LLDB(系列)(已更新)
+* LLDB(系列) 
+*     LLDB ios环境搭建
+*     LLDB 常用命令使用
 * 自己实现重签名脚本
 * MonkeyDev集成开发环境搭建
-* xcode 调试UI
 * xcode 免越狱调试第三方程序
 * 守护进程开发
 * 进程间通信基础
