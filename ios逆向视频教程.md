@@ -19,9 +19,9 @@
 * Frida(单独一套视频教程) 
 * Hopper工具使用
 * IDA Pro(单独一套视频教程)
-* LLDB(系列) 
-*     LLDB ios环境搭建
-*     LLDB 常用命令使用
+* LLDB  
+* ---LLDB ios环境搭建
+* ---LLDB 常用命令使用
 * 自己实现重签名脚本
 * MonkeyDev集成开发环境搭建
 * xcode 免越狱调试第三方程序
