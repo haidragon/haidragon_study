@@ -43,7 +43,7 @@
 * 安全对抗(反注入/hook/root检测系列)
 * llvm/ollvm(单独一套视频教程)
 ### ios逆向实战
-* xxxx约会软件1
-* xxxx约会软件2
-* xxxx约会软件3
+* xxxx约会软件vip破解1
+* xxxx约会软件vip破解2
+* xxxx约会软件vip破解3
 
