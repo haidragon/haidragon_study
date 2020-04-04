@@ -15,7 +15,8 @@
 * ---objc_msgSend原理
 * arm 汇编系列
 * class-dump工具使用 
-* Cycript(系列) 
+* Cycript 
+* ---Cycript环境搭建
 * FLEX工具使用 
 * Lookin工具使用 
 * passionfruit工具使用 
