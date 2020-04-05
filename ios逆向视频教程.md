@@ -42,6 +42,6 @@
 * 调试器对抗(系列)
 * 安全对抗(反注入/hook/root检测系列)
 * llvm/ollvm(单独一套视频教程)
-[### ios逆向实战](https://github.com/haidragon/study_frida)
+### [ios逆向实战](https://github.com/haidragon/study_frida)
 
 
