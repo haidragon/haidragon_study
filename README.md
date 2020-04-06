@@ -1,7 +1,4 @@
 # haidragon_study
-
-安全不分国界  逆向不分平台 高调求发展 潜心习安全
-
 * 可以先暂时看[study_frida](https://github.com/haidragon/study_frida)
 
 haidragon_study
