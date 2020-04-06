@@ -17,7 +17,7 @@
 * --- ollvm编译
 * --- ollvm使用
 * --- ollvm还原技巧
-* --- android 源码修改
+* android 源码
 * --- android源码编译
 * --- android源码修改
 * --- android驱动编写
