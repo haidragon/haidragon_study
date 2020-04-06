@@ -4,7 +4,7 @@
 haidragon_study
 
 * [ios逆向视频教程](https://github.com/haidragon/haidragon_study/blob/master/ios%E9%80%86%E5%90%91%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
-* android逆向视频教程
+* [android逆向视频教程](https://github.com/haidragon/haidragon_study/blob/master/android%E9%80%86%E5%90%91%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
 * linux逆向视频教程
 * windows逆向视频教程
 * mac os逆向视频教程
