@@ -8,6 +8,7 @@ haidragon_study
 * linux逆向视频教程
 * windows逆向视频教程
 * mac os逆向视频教程
+* 单片机逆向视频教程
 * 网络协议全流量分析视频教程
 * 漏洞利用视频教程
 * apt溯源视频教程
