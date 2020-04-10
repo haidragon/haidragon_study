@@ -7,7 +7,7 @@ haidragon_study
 * [android逆向视频教程](https://github.com/haidragon/haidragon_study/blob/master/android%E9%80%86%E5%90%91%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
 * linux逆向视频教程
 * windows逆向视频教程
-* mac os逆向视频教程
+* [mac os逆向视频教程](https://github.com/haidragon/haidragon_study/blob/master/mac%20os%E9%80%86%E5%90%91%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
 * 单片机逆向视频教程
 * 网络协议全流量分析视频教程
 * 漏洞利用视频教程
