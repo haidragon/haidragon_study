@@ -1,4 +1,5 @@
 # haidragon_study
+## 视频持续更新.......
 * 可以先暂时看[study_frida](https://github.com/haidragon/study_frida)
 
 haidragon_study
