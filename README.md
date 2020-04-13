@@ -20,7 +20,7 @@ haidragon_study
 * linux主动防御视频教程
 * mac os主动防御视频教程
 # 视频持续更新.......
-* 一些公开文章可以先暂时看[study_frida](https://github.com/haidragon/study_frida)
+* 一些公开文章可以看[study_frida](https://github.com/haidragon/study_frida)
 # 查看完整资料请加入星球
 ![](https://github.com/haidragon/study_frida/blob/master/image/1681580715267_.pic_hd.jpg)
 
