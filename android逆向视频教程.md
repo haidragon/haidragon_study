@@ -3,9 +3,26 @@
 ## android 逆向基础
 * ...
 ## android 逆向高级
-* xposed
-* --- xposed环境搭建
-* --- ...
+* xposed 
+* --- android8以及以前版本xposed环境搭建.mp4
+* --- android9下安装Magisk.太极.mp4
+* --- android9下EDXposed安装.mp4
+* --- android10下安装Magisk.太极.mp4
+* --- android10下EDXposed安装.mp4
+* --- 免root下VirtualXposed环境搭建.mp4
+* --- 编写第一个xposed程序.mp4
+* --- java反射联合 Xposed 复习
+* --- Xposed Hook 普通方法与静态变量
+* --- Xposed Hook 复杂参数
+* --- Xposed Hook 替换函数
+* --- Xposed Hook 内部类
+* --- Xposed hook 所有类所有函数(含打调用堆栈与主动调用)
+* --- Xposed Hook 多dex
+* --- Xposed Hook java原生算法库
+* --- Xposed Hook 构造函数与内部类构造函数
+* --- Xposed Hook 自定义类参数
+* --- Xposed so 注入
+* --- Xposed so hook
 * frida
 * --- frida环境搭建
 * --- ...
