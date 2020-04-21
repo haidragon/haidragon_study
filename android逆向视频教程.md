@@ -11,7 +11,7 @@
 * --- android10下EDXposed安装.mp4
 * --- 免root下VirtualXposed环境搭建.mp4
 * --- 编写第一个xposed程序.mp4
-* --- java反射联合 Xposed 复习
+* --- Xposed Hook 复习java反射
 * --- Xposed Hook 普通方法与静态变量
 * --- Xposed Hook 复杂参数
 * --- Xposed Hook 替换函数
