@@ -16,7 +16,8 @@
 * --- Xposed Hook 复杂参数
 * --- Xposed Hook 替换函数
 * --- Xposed Hook 内部类
-* --- Xposed hook 所有类所有函数(含打调用堆栈与主动调用)
+* --- Xposed hook 所有类所有函数 
+* --- Xposed hook 打调用堆栈与主动调用
 * --- Xposed Hook 多dex
 * --- Xposed Hook java原生算法库
 * --- Xposed Hook 构造函数与内部类构造函数
