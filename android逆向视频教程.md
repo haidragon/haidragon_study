@@ -4,7 +4,7 @@
 * ...
 ## android 逆向高级
 * xposed 
-* --- android8以及以前版本xposed环境搭建.mp4
+* --- android8以及以前版本xposed安装.mp4
 * --- android9下安装Magisk.太极.mp4
 * --- android9下EDXposed安装.mp4
 * --- android10下安装Magisk.太极.mp4
