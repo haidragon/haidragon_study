@@ -21,8 +21,8 @@
 * --- 15.Xposed Hook 多dex.mp4
 * --- 16.Xposed Hook java原生算法库.mp4
 * --- 17.Xposed Hook 构造函数与内部类构造函数.mp4
-* --- 17.Xposed Hook 自定义类参数.mp4
-* --- 18.Xposed so 注入.mp4
+* --- 18.Xposed Hook 自定义类参数.mp4
+* --- 19.Xposed so 注入.mp4
 * --- 20.Xposed so hook.mp4
 * frida
 * --- frida环境搭建
