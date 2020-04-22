@@ -18,10 +18,10 @@
 * --- 12.Xposed Hook 内部类.mp4
 * --- 13.Xposed hook 所有类所有函数.mp4
 * --- 14.Xposed hook 打调用堆栈与主动调用.mp4
-* --- 15.Xposed Hook 多dex.mp4
-* --- 16.Xposed Hook java原生算法库.mp4
-* --- 17.Xposed Hook 构造函数与内部类构造函数.mp4
-* --- 18.Xposed Hook 自定义类参数.mp4
+* --- 15.Xposed Hook 构造函数与内部类构造函数.mp4
+* --- 16.Xposed Hook 自定义类参数.mp4
+* --- 17.Xposed Hook 多dex.mp4
+* --- 18.Xposed Hook java原生算法库.mp4
 * --- 19.Xposed so 注入.mp4
 * --- 20.Xposed so hook.mp4
 * frida
