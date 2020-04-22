@@ -4,26 +4,26 @@
 * ...
 ## android 逆向高级
 * xposed 
-* --- android8以及以前版本xposed安装.mp4
-* --- android9下安装Magisk.太极.mp4
-* --- android9下EDXposed安装.mp4
-* --- android10下安装Magisk.太极.mp4
-* --- android10下EDXposed安装.mp4
-* --- 免root下VirtualXposed环境搭建.mp4
-* --- 编写第一个xposed程序.mp4
-* --- Xposed Hook 复习java反射
-* --- Xposed Hook 普通方法与静态变量
-* --- Xposed Hook 复杂参数
-* --- Xposed Hook 替换函数
-* --- Xposed Hook 内部类
-* --- Xposed hook 所有类所有函数 
-* --- Xposed hook 打调用堆栈与主动调用
-* --- Xposed Hook 多dex
-* --- Xposed Hook java原生算法库
-* --- Xposed Hook 构造函数与内部类构造函数
-* --- Xposed Hook 自定义类参数
-* --- Xposed so 注入
-* --- Xposed so hook
+* --- 1.android8以及以前版本xposed安装.mp4
+* --- 2.android9下安装Magisk.太极.mp4
+* --- 3.android9下EDXposed安装.mp4
+* --- 4.android10下安装Magisk.太极.mp4
+* --- 5.android10下EDXposed安装.mp4
+* --- 6.免root下VirtualXposed环境搭建.mp4
+* --- 7.编写第一个xposed程序.mp4
+* --- 8.Xposed Hook 复习java反射.mp4
+* --- 9.Xposed Hook 普通方法与静态变量.mp4
+* --- 10.Xposed Hook 复杂参数.mp4
+* --- 11.Xposed Hook 替换函数.mp4
+* --- 12.Xposed Hook 内部类.mp4
+* --- 13.Xposed hook 所有类所有函数.mp4
+* --- 14.Xposed hook 打调用堆栈与主动调用.mp4
+* --- 15.Xposed Hook 多dex.mp4
+* --- 16.Xposed Hook java原生算法库.mp4
+* --- 17.Xposed Hook 构造函数与内部类构造函数.mp4
+* --- 17.Xposed Hook 自定义类参数.mp4
+* --- 18.Xposed so 注入.mp4
+* --- 20.Xposed so hook.mp4
 * frida
 * --- frida环境搭建
 * --- ...
