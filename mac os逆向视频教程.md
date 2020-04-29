@@ -28,7 +28,7 @@
  * --- 1.基于frida函数追踪.mp4
  * --- ...
  * tweak(theos) 插件编写
-* --- 1.tweak命令环境搭建.mp4
+* --- 1.theos环境搭建与第一个实战.mp4
 * --- 2.xcode集成环境搭建.mp4
 * --- 3.通过tweak复习oc反射.mp4
 * --- 4.tweak hook oc普通函数.mp4
