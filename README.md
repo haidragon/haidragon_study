@@ -1,4 +1,4 @@
-# haidragon_study
+# haidragon_study  视频下载请加vx 2207344074
 haidragon_study
 
 * [ios逆向视频教程](https://github.com/haidragon/haidragon_study/blob/master/ios%E9%80%86%E5%90%91%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
@@ -22,7 +22,4 @@ haidragon_study
 * mac os主动防御视频教程
 # 视频持续更新.......
 * 一些公开文章可以看[study_frida](https://github.com/haidragon/study_frida)
-# 查看完整资料请加入星球
-![](https://github.com/haidragon/study_frida/blob/master/image/1681580715267_.pic_hd.jpg)
-
 
