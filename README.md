@@ -14,12 +14,12 @@ haidragon_study
 * iot安全视频教程
 * 渗透测试视频教程
 * 病毒编写视频教程
-* 电子取证视频教程
-* windows主动防御视频教程
-* android风控教程
-* ios风控教程
-* linux主动防御视频教程
-* mac os主动防御视频教程
+* 电子取证对抗视频教程
+* windows主动防御对抗视频教程
+* android风控对抗教程
+* ios风控对抗教程
+* linux主动防御对抗视频教程
+* mac os主动防御视对抗频教程
 # 视频持续更新.......
 * 一些公开文章可以看[study_frida](https://github.com/haidragon/study_frida)
 
