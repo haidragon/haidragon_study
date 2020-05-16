@@ -98,5 +98,4 @@
  * --- XNU源码修改
  * --- XNU驱动编写
  * --- ...
- # 实战
-  * --- [Archiver.ipa_破解.mp4](https://github.com/haidragon/study_frida)
+ # [实战](https://github.com/haidragon/study_frida) 
