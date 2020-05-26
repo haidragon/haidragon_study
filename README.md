@@ -19,7 +19,7 @@ haidragon_study
 * android风控对抗教程
 * ios风控对抗教程
 * linux主动防御对抗视频教程
-* mac os主动防御视对抗频教程
+* mac os主动防御对抗视频教程
 # 视频持续更新.......
 * 一些公开文章可以看[study_frida](https://github.com/haidragon/study_frida)
 
