@@ -36,7 +36,7 @@
 * --- ollvm使用
 * --- ollvm还原技巧
 * android 源码
-* --- [android源码编译(https://github.com/haidragon/study_Android_Mchange)
+* --- [android源码编译](https://github.com/haidragon/study_Android_Mchange)
 * --- [android驱动编写](https://github.com/haidragon/study_Android_Mchange)
 * ---1.android 9 源码调试环境搭建.mp4
 * ---2.android 9 调试源码程序java层.mp4
