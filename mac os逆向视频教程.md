@@ -1,33 +1,62 @@
 # mac os逆向视频教程
 # 以下不代表全部，视频一直在更新，可以加vx2207344074了解详情！！！ qq群：309262570 826038086
- ## mac os (10.15.3)
- * runtime 基础
- * mac os UI
- * --- 1.界面调试UI_inspector_方式1.mp4
- * --- 2.界面调试UI_inspector_方式2.mp4
- * 注入
- * --- 1.dylib动态库创建与使用.mp4
- * --- 2.dylib动态库注入.mp4
- * --- 3.dylib动态库链式注入.mp4
- * --- 4.Hardened_Runtime反注入下注入framework.mp4
- * hook
- * lldb 动态调用
- * --- 1.lldb介绍与附加.mp4
- * --- 2.lldb有无符号断点操作.mp4
- * --- 3.线程与栈帧.mp4
- * --- 4.lldb寄存器与打印操作.mp4
- * --- 5.模块(镜像)操作.mp4
- * --- 6.amd64下objc_msgSend参数打印.mp4 
- * --- 7.lldb内存操作与反汇编.mp4
- * --- 8.编写第一个lldb脚本.mp4
- * --- 9.利用lldb脚本打印堆栈详细信息.mp4
- * --- 10.lldb脚本实现trace.mp4
- * --- 11.lldb脚本实现UI_inspector.mp4
- * ida 静态分拣
- * frida 辅助分析
- * --- 1.基于frida函数追踪.mp4
- * --- ...
- * tweak(theos) 插件编写
+## mac os (10.15.3)
+# java基础
+* ---1.第一个java程序
+* ---2.制作最简单的jar包(上)
+* ---3.制作最简单的jar包(下)
+* ---4.含两个类的jar包
+* ---5.有目录结构的jar包
+* ---6.制作jar包含有jar包
+* ---7.jar调用内部的jar包
+* ---8.制作含有资源文件的jar包
+* ---9.资源文件jar包外部调用
+* ---10.native层动态库编写
+* ---11.java调用native接口
+* ---12.jar调用native接口
+* ---13.java反射复习
+* ---14.java代理原理(上)
+* ---15.java代理原理(下)
+* ---16.class文件格式
+* ---17.遍历java函数 
+* ---18.java-hook(一)
+* ---19.java-hook(二)
+* ---20.java-hook(三)
+* ---21.jar调试
+* ---22.第三方java app调试
+* ---23.java-ui---窗口
+* ---25.java-ui---窗口事件
+* ---26.method-trace 
+* ---27.java2c原理
+* ---28.实战第一个java程序破解
+
+* runtime 基础
+* mac os UI
+* --- 1.界面调试UI_inspector_方式1.mp4
+* --- 2.界面调试UI_inspector_方式2.mp4
+* 注入
+* --- 1.dylib动态库创建与使用.mp4
+* --- 2.dylib动态库注入.mp4
+* --- 3.dylib动态库链式注入.mp4
+* --- 4.Hardened_Runtime反注入下注入framework.mp4
+* hook
+* lldb 动态调用
+* --- 1.lldb介绍与附加.mp4
+* --- 2.lldb有无符号断点操作.mp4
+* --- 3.线程与栈帧.mp4
+* --- 4.lldb寄存器与打印操作.mp4
+* --- 5.模块(镜像)操作.mp4
+* --- 6.amd64下objc_msgSend参数打印.mp4 
+* --- 7.lldb内存操作与反汇编.mp4
+* --- 8.编写第一个lldb脚本.mp4
+* --- 9.利用lldb脚本打印堆栈详细信息.mp4
+* --- 10.lldb脚本实现trace.mp4
+* --- 11.lldb脚本实现UI_inspector.mp4
+* ida 静态分拣
+* frida 辅助分析
+* --- 1.基于frida函数追踪.mp4
+* --- ...
+* tweak(theos) 插件编写
 * --- 1.theos环境搭建与第一个实战.mp4
 * --- 2.xcode集成环境搭建.mp4
 * --- 3.通过tweak复习oc反射.mp4
@@ -56,13 +85,13 @@
 * --- 26.函数追踪方式4.mp4
 * --- 27.添加系统设置项.mp4
 * --- 28.deb重打包.mp4
- * --- ...
- * mac os 混淆
- * --- ollvm编译
- * --- ollvm使用
- * --- ollvm还原技巧
- * 高级对抗
- * --- 注入对抗
+* --- ...
+* mac os 混淆
+* --- ollvm编译
+* --- ollvm使用
+* --- ollvm还原技巧
+* 高级对抗
+* --- 注入对抗
 * --- hook对抗
 * 高级调试器对抗(以下只讲64位同时除了原理讲解其它全是用户层实现不涉及到内核)
 * ---1.操作系统原理之中断.mp4
@@ -93,9 +122,9 @@
 * ---10.https抓包原理与实现.mp4
 * ---11.https双向证书验证绕过原理.mp4
 * ---12.数据包中证书提取实现.mp4
- * XNU 源码
- * --- XNU源码编译
- * --- XNU源码修改
- * --- XNU驱动编写
- * --- ...
- # [实战](https://github.com/haidragon/study_frida) 
+* XNU 源码
+* --- XNU源码编译
+* --- XNU源码修改
+* --- XNU驱动编写
+* --- ...
+# [实战](https://github.com/haidragon/study_frida) 
