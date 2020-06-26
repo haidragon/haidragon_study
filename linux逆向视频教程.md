@@ -24,8 +24,10 @@
 * ---23.java-ui---窗口
 * ---25.java-ui---窗口事件
 * ---26.method-trace 
-* ---27.java2c原理
-* ---28.实战第一个java程序破解
+* ---27.java混淆
+* ---28.dump method
+* ---29.java2c原理
+* ---30.实战第一个java程序破解
 
 # 工具使用
 * frida 
