@@ -32,8 +32,8 @@
 * ---29.java2c原理
 * ---30.实战第一个java程序破解
 
-* runtime 基础
-* mac os UI
+# runtime 基础
+# mac os UI
 * --- 1.界面调试UI_inspector_方式1.mp4
 * --- 2.界面调试UI_inspector_方式2.mp4
 * 注入
