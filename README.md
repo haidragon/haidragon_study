@@ -23,5 +23,4 @@ haidragon_study
 # 视频持续更新.......
 * 一些公开文章可以看[study_frida](https://github.com/haidragon/study_frida)
 
-# 招聘群
-* 汇编逆向单片机linux招 788532262
+ 
