@@ -22,5 +22,4 @@ haidragon_study
 * mac os主动防御对抗视频教程
 # 视频持续更新.......
 * 一些公开文章可以看[study_frida](https://github.com/haidragon/study_frida)
-# 主页 https://haidragon.github.io/
- 
+# 有条件可以去主页打赏作者。 https://haidragon.github.io/   http://www.haidragonstudy.com/
