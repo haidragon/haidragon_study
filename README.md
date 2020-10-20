@@ -12,7 +12,7 @@ haidragon_study
 * 单片机逆向视频教程
 * apt溯源视频教程
 * 工控安全视频教程
-* [iot安全视频教程](https://github.com/haidragon/haidragon_study/blob/master/%E7%89%A9%E8%81%94%E7%BD%91(IOT)%E5%AE%89%E5%85%A8%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
+* [物联网(IOT)安全视频教程.](https://github.com/haidragon/haidragon_study/blob/master/%E7%89%A9%E8%81%94%E7%BD%91(IOT)%E5%AE%89%E5%85%A8%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.md)
 * 渗透测试视频教程
 * 病毒编写视频教程
 * 电子取证对抗视频教程
