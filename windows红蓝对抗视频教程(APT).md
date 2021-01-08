@@ -1,4 +1,4 @@
-# windows红蓝对抗视频教程(APT) 4999
+# windows红蓝对抗视频教程(APT)  
 * 1.介绍
 
 # 逆向基础
@@ -222,25 +222,5 @@
 
 * 各种方向的样本分析 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 sysmon 监听日志
 
-* https://blog.csdn.net/sojrs_sec/article/details/105984811
-* https://422926799.github.io/
-* https://www.hackingarticles.in/
-* https://www.cnblogs.com/backlion/
-* http://paper.tidesec.com/
-* https://github.com/alphaSeclab/awesome-reverse-engineering#b4a856db286f9f29b5a32d477d6b3f3a
