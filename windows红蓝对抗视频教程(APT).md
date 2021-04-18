@@ -96,6 +96,37 @@
 * 72.使用dsacls枚举AD对象权限
 * 73.AD密码Spraying
 
+
+# Kerberos协议视频教程
+* 1.课程介绍
+* 2.讲个事故(登机流程)
+* 3.企业网络架构
+* 4.Kerberos协议介绍
+* 5.Kerberos原理(上)
+* 6.Kerberos原理(下)
+* 7.域介绍与简单环境搭建(windows)
+* 9.分析AS_REQ&AS_RE的数据包
+* 10.分析TGS_REQ&TGS_REP的数据包
+* 11.Kerberos协议的开源实现
+* 12.选择平台和操作系统(KDC)
+* 13.unix安装(选择KDC包)
+* 14.多系统的域环境搭建
+* 15.NDS和Kerberos
+* 16.域环境故障排除
+* 17.Kerberos安全介绍
+* 18.Kerberos攻击(白银票据)
+* 19.Kerberos攻击(黄金票据)
+* 20.CS安装与使用(Cobalt Strike)
+* 21.利用CS内网域信息收集
+* 22.利用CS内网登录认证
+* 23.利用CS内网横向渗透获取权限
+* 24.域内自动化横行渗透
+* 25.Kerberos支持(C/S应用程序)
+* 26.Kerberos高级(跨领域)
+* 27.Kerberos未来
+* 28.总结
+
+
 ## 红队基础设施
 * 74.http转发中继
 * 75.smtp转发中继
