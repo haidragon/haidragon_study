@@ -206,6 +206,38 @@
 ## 高级自动化工具
 * burp suite
 * Cobalt Strik
+# CobaltStrike视频教程 999
+* --- 1. 课程介绍.mp4
+* --- 2. CobaltStrike 安装.mp4
+* --- 3. CS简单使用.mp4
+* --- 4. CS使用重定器.mp4
+* --- 5. DNS Beacon使用.mp4
+* --- 6. CS与MSF联动.mp4
+* --- 7. https Beacon使用.mp4
+* --- 8. CS搭建域前置.mp4
+* --- 9. SMB Beacon使用.mp4
+* --- 10.CS钓鱼攻击.mp4
+* --- 11.域环境搭建.mp4
+* --- 12.域环境信息收集.mp4
+* --- 12.提取明文账号密码.mp4
+* --- 13.CS权限提升.mp4
+* --- 14.CS可持续后门.mp4
+* --- 15.CS免杀过杀软.mp4
+* --- 17.cs正向连接多层内网.mp4
+* --- 18.cs反向连接多层内网.mp4
+* --- 19.cs shellcode免杀.mp4
+* --- 20.cs内网不出网机器上线.mp4
+* --- 21.cs的ExternalC2框架.mp4
+* --- 22.cs流量分析.mp4
+* --- 23.cs逆向分析安装后门.mp4
+* --- 24.cs协议分析.mp4
+* --- 25.C2lints实例.mp4
+* --- 26.生成ssl证书修改c2 profile.mp4
+* --- 27.IDEA修改cobaltstrike.mp4
+* --- 28.cs二次开发环境准备.mp4
+* --- 29.cs自定义OneLiner.mp4
+* --- 30.cs上线推送微信.mp4
+* --- 31.cs上线推送钉钉.mp4
 * Metasploit Framework
 
 # 蓝队基础 
