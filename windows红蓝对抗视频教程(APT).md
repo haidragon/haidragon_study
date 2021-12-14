@@ -72,60 +72,36 @@
 ## 介绍(了解黑客如何攻击)
 * 51.红队介绍
 
-## Active Directory与Kerberos滥用
-* 52.从域管理员到企业管理员
-* 53.Kerberoasting
-* 54.Kerberos协议---Golden Tickets
-* 55.Kerberos协议---Silver Tickets
-* 56.AS-REP Roasting
-* 57.Kerberoasting(RC4) 
-* 58.Kerberos无约束委派
-* 59.Kerberos约束委派(KCD)
-* 60.计算机对象接管
-* 61.域破坏(DC Print Server Kerberos)
-* 62.DCShadow 
-* 63.从域控制器dump哈希
-* 64.Active Directory枚举
-* 65.滥用AD ACL / ACE
-* 66.特权帐户和令牌特权
-* 67.从DnsAdmins到SYSTEM到域破坏
-* 68.Pass the Hash(Machine$ Accounts)
-* 69.BloodHound(kali)
-* 70.adminsdholder利用(权限维持)
-* 71.AD枚举(无RSAT或管理员权限)
-* 72.使用dsacls枚举AD对象权限
-* 73.AD密码Spraying
+## 内网渗透
+* 214.windows认证协议
+* 215.NTLM认证协议 
+* 216.域简单环境搭建(windows)
+* 217.内网域
+* 218.Kerberos原理
+* 219.Golden Tickets
+* 220.Silver Tickets
+* 221.分析AS_REQ&AS_RE的数据包
+* 222.分析TGS_REQ&TGS_REP的数据包
+* 223.AS-REP Roasting
+* 224.在谈Kerberoasting
+* 225.Kerberos无约束委派
+* 226.Kerberos约束委派  
+* 227.资源的约束委派
+* 228.打印机的利用
+* 229.DCShadow  
+* 230.DCSync
+* 231.ACL提升权限
+* 232.特权帐户和令牌特权
+* 233.DNS服务注入dll
+* 234.BloodHound(kali)
+* 235.adminsdholder利用(权限维持) 
+* 236.AD密码Spraying  
+* 237.Active Directory枚举 
+* 238.其它情况AD枚举
+* 239.利用mimikatz构造凭证
+* 240.域内提权漏洞利用
 
-
-# Kerberos协议视频教程
-* 1.课程介绍
-* 2.讲个事故(登机流程)
-* 3.企业网络架构
-* 4.Kerberos协议介绍
-* 5.Kerberos原理(上)
-* 6.Kerberos原理(下)
-* 7.域介绍与简单环境搭建(windows)
-* 9.分析AS_REQ&AS_RE的数据包
-* 10.分析TGS_REQ&TGS_REP的数据包
-* 11.Kerberos协议的开源实现
-* 12.选择平台和操作系统(KDC)
-* 13.unix安装(选择KDC包)
-* 14.多系统的域环境搭建
-* 15.NDS和Kerberos
-* 16.域环境故障排除
-* 17.Kerberos安全介绍
-* 18.Kerberos攻击(白银票据)
-* 19.Kerberos攻击(黄金票据)
-* 20.CS安装与使用(Cobalt Strike)
-* 21.利用CS内网域信息收集
-* 22.利用CS内网登录认证
-* 23.利用CS内网横向渗透获取权限
-* 24.域内自动化横行渗透
-* 25.Kerberos支持(C/S应用程序)
-* 26.Kerberos高级(跨领域)
-* 27.Kerberos未来
-* 28.总结
-
+ 
 
 ## 红队基础设施
 * 74.http转发中继
