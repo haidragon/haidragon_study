@@ -30,11 +30,9 @@
 * android UI
 * --- UI遍历
 * --- UI 控件定位
-* android 混淆
-* --- java层混淆
+* android 混淆 
 * --- ollvm编译
-* --- ollvm使用
-* --- ollvm还原技巧
+* --- ollvm使用 
 * android 源码
 * --- [android源码编译](https://github.com/haidragon/study_Android_Mchange)
 * --- [android驱动编写](https://github.com/haidragon/study_Android_Mchange)
